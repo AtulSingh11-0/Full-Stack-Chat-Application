@@ -92,13 +92,13 @@ This is a full-stack chat application built with Node.js, Express, MongoDB, Reac
     npm run dev
     ```
 
-    The frontend server will run on [`http://localhost:3000`](command:_github.copilot.openSymbolFromReferences?%5B%22%22%2C%5B%7B%22uri%22%3A%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2Fc%3A%2FUsers%2Fcocat%2FDocuments%2FNode-JS%2FWeb%20Projects%2FChat-Application%2Fbackend%2Fapp.js%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%2C%22pos%22%3A%7B%22line%22%3A2%2C%22character%22%3A6%7D%7D%5D%2C%225417c2ab-bbea-44cd-8cfd-73ba68d23e1c%22%5D "Go to definition").
+    The frontend server will run on [`http://localhost:CLIENT_PORT || 5173`](command:_github.copilot.openSymbolFromReferences?%5B%22%22%2C%5B%7B%22uri%22%3A%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2Fc%3A%2FUsers%2Fcocat%2FDocuments%2FNode-JS%2FWeb%20Projects%2FChat-Application%2Fbackend%2Fapp.js%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%2C%22pos%22%3A%7B%22line%22%3A2%2C%22character%22%3A6%7D%7D%5D%2C%225417c2ab-bbea-44cd-8cfd-73ba68d23e1c%22%5D "Go to definition").
 
 ## Usage
 
 1. **Open your browser:**
 
-    Navigate to [`http://localhost:3000`](command:_github.copilot.openSymbolFromReferences?%5B%22%22%2C%5B%7B%22uri%22%3A%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2Fc%3A%2FUsers%2Fcocat%2FDocuments%2FNode-JS%2FWeb%20Projects%2FChat-Application%2Fbackend%2Fapp.js%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%2C%22pos%22%3A%7B%22line%22%3A2%2C%22character%22%3A6%7D%7D%5D%2C%225417c2ab-bbea-44cd-8cfd-73ba68d23e1c%22%5D "Go to definition") to use the chat application.
+    Navigate to [`http://localhost:CLIENT_PORT || 5173`](command:_github.copilot.openSymbolFromReferences?%5B%22%22%2C%5B%7B%22uri%22%3A%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2Fc%3A%2FUsers%2Fcocat%2FDocuments%2FNode-JS%2FWeb%20Projects%2FChat-Application%2Fbackend%2Fapp.js%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%2C%22pos%22%3A%7B%22line%22%3A2%2C%22character%22%3A6%7D%7D%5D%2C%225417c2ab-bbea-44cd-8cfd-73ba68d23e1c%22%5D "Go to definition") to use the chat application.
 
 2. **Send messages:**
 
